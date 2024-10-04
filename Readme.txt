@@ -1,8 +1,4 @@
 
-# COMP1110/1140/6710 Semester 2 2024 Assignment 2
-
-## Purpose
-
 In this assignment you will implement a game. It will be a desktop version
 of a pen-and-paper game. A GUI (graphical user interface) is provided, that
 you can use, but you have to build the "backend" of the program, that
